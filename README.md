@@ -4,7 +4,7 @@
 **Introduction:**
 This project aims to predict customer churn in a telecommunications dataset, helping businesses identify and retain customers. We've used machine learning techniques to build predictive models that can foresee potential churners.
 
-**Key Steps:**
+**Steps:**
 1. **Data Exploration:** Explored the dataset to understand customer features.
 2. **Data Cleaning:** Handled missing values and addressed categorical variables for accurate modeling.
 3. **Feature Engineering:** Created new features to enhance model performance.
@@ -24,5 +24,3 @@ This comprehensive approach ensures accurate and robust models for predicting cu
 2. Ensure Python and necessary libraries are installed.
 3. Run the provided Jupyter Notebook to execute the entire pipeline.
 4. Explore the saved models and additional files for insights into the project.
-
-Feel free to contribute or provide feedback for continuous improvement!
